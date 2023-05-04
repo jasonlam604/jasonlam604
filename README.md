@@ -1,6 +1,6 @@
 ### Welcome to Jason's page on GitHub
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonlam604)](https://github.com/jasonlam604/jasonlam604)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonlam604)](https://github.com/jasonlam604/jasonlam604)
 
 <!--
 **jasonlam604/jasonlam604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
