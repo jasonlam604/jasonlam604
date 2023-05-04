@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Jason's page on GitHub
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonlam604)](https://github.com/jasonlam604/jasonlam604)
 
